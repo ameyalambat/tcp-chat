@@ -1,3 +1,3 @@
-module github.com/ameyalambat128/tcp-chat
+module github.com/ameyalambat/tcp-chat
 
 go 1.19
